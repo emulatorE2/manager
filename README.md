@@ -1,0 +1,2 @@
+# manager
+test_plugins
